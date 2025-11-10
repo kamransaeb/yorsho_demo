@@ -1,6 +1,6 @@
-# yorsho_mobile_branded_dev
+# Yorsho Demo
 
-A new Flutter project.
+A Demo showcasing a flutter project structure.
 
 ## Getting Started
 
