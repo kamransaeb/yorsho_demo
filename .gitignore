@@ -1,0 +1,87 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+generated_plugin_registrant.dart
+
+# Symbolication files
+app.*.symbols
+
+# Obfuscation and metadata
+app.*.map.json
+
+# Android
+**/android/**/gradle-wrapper.jar
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/key.properties
+**/android/.idea/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/build/
+
+# iOS
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/DerivedData/
+**/ios/build/
+**/ios/.generated/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+**/macos/Flutter/ephemeral/
+**/macos/Pods/
+**/macos/Runner.xcworkspace/
+**/macos/build/
+
+# Windows
+**/windows/flutter/ephemeral/
+**/windows/build/
+
+# Web
+**/web/.dart_tool/
+**/web/build/
+
+# VS Code
+.vscode/
+.idea/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+
+# Misc
+.DS_Store
+*.log
+*.tmp
+*.lock
+*.bak
+
+# Environment & secrets
+.env
+.env.*
+firebase_app_id_file.json
+google-services.json
+GoogleService-Info.plist
+
